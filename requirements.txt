@@ -99,3 +99,6 @@ virtualenv==20.9.0
 virtualenv-clone==0.5.7
 w3lib==1.22.0
 zope.interface==5.4.0
+djoser
+djangorestframework-simplejwt
+PyJWT
