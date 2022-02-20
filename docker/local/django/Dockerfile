@@ -1,4 +1,6 @@
+#!/usr/bin/env bash
 FROM python:3.10.0-slim-buster
+
 
 ENV APP_HOME=/app
 RUN mkdir $APP_HOME
